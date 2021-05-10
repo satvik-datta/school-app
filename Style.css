@@ -1,0 +1,46 @@
+img {
+    width: 1000px;
+    height: 1000px;
+}
+
+body {
+    text-align: center;
+    background-color: firebrick;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-top: 30px
+}
+
+Topic {
+    font-family: monospace;
+    font-size: 100px;
+}
+.about school{
+    
+}
+
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center
+}
+
